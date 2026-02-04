@@ -123,20 +123,3 @@ Use Postman or Thunder Client.
 
 --------------------------------------------------
 
-SCREENSHOTS (Optional)
-
-Add screenshots in:
-
-screenshots/
-
---------------------------------------------------
-
-AUTHOR
-
-Your Name
-
---------------------------------------------------
-
-LICENSE
-
-For internship assessment and learning purposes.
