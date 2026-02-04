@@ -1,4 +1,4 @@
-#Task
+# Task
 # Notes Management REST API
 
 A minimal backend REST API for managing notes with basic intelligence features such as validation, smart search, partial updates, and rate limiting.
